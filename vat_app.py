@@ -7,3 +7,4 @@ st.header(f"• ภาษีมูลค่าเพิ่ม (VAT 7%): **{vat:.
 st.header(f"• ราคาสุทธิ: {net_price:.2f} บาท")
 st.divider()
 st.write("นาย สพานทอง ภูสิริพัฒนานนท์ เลขที่ 17  ม.4/4")
+
